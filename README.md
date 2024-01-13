@@ -1,11 +1,11 @@
 # classification-for-handwritten-characters-on-MNIST-dataset-using-HOG-Feature-Extraction-and-SVM
 
 
-mnist_784.arff
-https://drive.google.com/drive/folders/1eCaSB05wedhxI5zT2nCqNWuUN7zKU-ZI?usp=sharing
+# The MNIST database of handwritten digits
+https://www.openml.org/search?type=data&sort=runs&id=554&status=active
 
-pip install numpy
-pip install scikit-image
-pip install scikit-learn
-pip install scipy
-pip install matplotlib
+#pip install numpy
+#pip install scikit-image
+#pip install scikit-learn
+#pip install scipy
+#pip install matplotlib
