@@ -1,4 +1,5 @@
-# classification-for-handwritten-characters-on-MNIST-dataset-using-HOG-Feature-Extraction-and-SVM
+# Classification-for-handwritten-characters-on-MNIST-dataset-using-HOG-Feature-Extraction-and-SVM
+
 
 
 # The MNIST database of handwritten digits
