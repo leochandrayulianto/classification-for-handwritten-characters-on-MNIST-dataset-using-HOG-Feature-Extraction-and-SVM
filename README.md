@@ -5,7 +5,7 @@
 ## The MNIST database of handwritten digits
 https://www.openml.org/search?type=data&sort=runs&id=554&status=active
 
-**Python libraries**
+## Python libraries
 ```bash
 pip install numpy
 pip install scikit-image
